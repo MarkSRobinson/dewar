@@ -1,0 +1,15 @@
+{
+  "item": {
+    "available_products": [
+      "balance"
+    ],
+    "billed_products": [
+      "transactions"
+    ],
+    "error": null,
+    "institution_id": "ins_100069",
+    "item_id": "RLZ8nyRz6DCdBvwJKD78Cq89k1jB5lCXXZzL9",
+    "webhook": ""
+  },
+  "request_id": "YPxaF"
+}

@@ -1,0 +1,24 @@
+{
+  "device": null,
+  "device_list": null,
+  "mfa_type": "selections",
+  "public_token": "public-sandbox-4bf8eb0a-80b1-429a-a780-7a62a13fa783",
+  "questions": null,
+  "request_id": "7DVCD",
+  "selections": [
+    {
+      "answers": [
+        "tomato",
+        "potato"
+      ],
+      "question": "You say tomato, I say...?"
+    },
+    {
+      "answers": [
+        "ketchup",
+        "mustard"
+      ],
+      "question": "Ketchup or mustard?"
+    }
+  ]
+}

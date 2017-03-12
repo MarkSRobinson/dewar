@@ -1,0 +1,77 @@
+OFXHEADER:100
+DATA:OFXSGML
+VERSION:102
+SECURITY:NONE
+ENCODING:USASCII
+CHARSET:1252
+COMPRESSION:NONE
+OLDFILEUID:NONE
+NEWFILEUID:NONE
+
+<OFX>
+    <SIGNONMSGSRSV1>
+        <SONRS>
+            <STATUS>
+                <CODE>0
+                <SEVERITY>INFO
+            </STATUS>
+            <LANGUAGE>ENG
+        </SONRS>
+    </SIGNONMSGSRSV1>
+    <CREDITCARDMSGSRSV1>
+        <CCSTMTTRNRS>
+            <TRNUID>0
+            <STATUS>
+                <CODE>0
+                <SEVERITY>INFO
+            </STATUS>
+            <CCSTMTRS>
+            <CURDEF>USD
+            <CCACCTFROM>
+                <ACCTID>Credit Card-12345678910241877
+            </CCACCTFROM>
+            <BANKTRANLIST>
+                <DTSTART>20170308190000.000[-5:EST]
+                <DTEND>20170310120000.000[-5:EST]
+                <STMTTRN>
+                    <TRNTYPE>CREDIT
+                    <DTPOSTED>20170228170000.000
+                    <TRNAMT>-294.02
+                    <FITID>FITID20170228294.02F7D86
+                    <NAME>PAYMENT - THANK YOU
+                </STMTTRN>
+                <STMTTRN>
+                    <TRNTYPE>CREDIT
+                    <DTPOSTED>20170301170000.000
+                    <TRNAMT>10
+                    <FITID>FITID20170303-10.0FRED8
+                    <NAME>VISIT PATREON.COM/INFO 877-887-7
+                </STMTTRN>
+                <STMTTRN>
+                    <TRNTYPE>CREDIT
+                    <DTPOSTED>20170304170000.000
+                    <TRNAMT>17.16
+                    <FITID>FITID20170305-17.16FEJR8
+                    <NAME>AMZ*TINGTX#123456 866-216-1072 W
+                    <MEMO>PEFT2IYOYK3
+                </STMTTRN>
+                <STMTTRN>
+                    <TRNTYPE>CREDIT
+                    <DTPOSTED>20170305170000.000
+                    <TRNAMT>9.75
+                    <FITID>FITID20170306-9.75FDFYG
+                    <NAME>AMAZON MKTPLACE PMTS AMZN.COM/BI
+                    <MEMO>QYN7L8LIK18
+                </STMTTRN>
+                <STMTTRN>
+                    <TRNTYPE>CREDIT
+                    <DTPOSTED>20170307170000.000
+                    <TRNAMT>60
+                    <FITID>FITID20170308-60.0DPZY4
+                    <NAME>CLIPPER SERVICE CONCORD CA
+                </STMTTRN>
+            </BANKTRANLIST>
+            </CCSTMTRS>
+        </CCSTMTTRNRS>
+    </CREDITCARDMSGSRSV1>
+</OFX>

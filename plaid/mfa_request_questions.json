@@ -1,0 +1,12 @@
+{
+  "device": null,
+  "device_list": null,
+  "mfa_type": "questions",
+  "public_token": "public-sandbox-2b4979ad-64a9-4311-8b8d-efa90334f989",
+  "questions": [
+    "What is the answer to question_0_0?",
+    "What is the answer to question_0_1?"
+  ],
+  "request_id": "qu0Cg",
+  "selections": null
+}

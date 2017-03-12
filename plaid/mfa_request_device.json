@@ -1,0 +1,30 @@
+{
+  "device": null,
+  "device_list": [
+    {
+      "device_id": "0",
+      "mask": "••• ••• 1111",
+      "type": "phone"
+    },
+    {
+      "device_id": "1",
+      "mask": "••• ••• 2222",
+      "type": "phone"
+    },
+    {
+      "device_id": "2",
+      "mask": "s...h@plaid.com",
+      "type": "email"
+    },
+    {
+      "device_id": "3",
+      "mask": "r...n@plaid.com",
+      "type": "email"
+    }
+  ],
+  "mfa_type": "device_list",
+  "public_token": "public-sandbox-6004a000-9e78-499a-a2d0-bd68da10c442",
+  "questions": null,
+  "request_id": "LW74I",
+  "selections": null
+}

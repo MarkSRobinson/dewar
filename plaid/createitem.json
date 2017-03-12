@@ -1,0 +1,58 @@
+{
+  "accounts": [
+    {
+      "account_id": "JXolyGkpK9UMreJGyzXjiAwoGVqze8SZ57QLG",
+      "balances": {
+        "available": 100,
+        "current": 110,
+        "limit": null
+      },
+      "mask": "0000",
+      "name": "Plaid Checking",
+      "official_name": "Plaid Gold Standard 0% Interest Checking",
+      "subtype": "checking",
+      "type": "depository"
+    },
+    {
+      "account_id": "kBg9RewlrkSexQayv8zDfQ6KPJLgpdSw8PJbG",
+      "balances": {
+        "available": 200,
+        "current": 210,
+        "limit": null
+      },
+      "mask": "1111",
+      "name": "Plaid Saving",
+      "official_name": "Plaid Silver Standard 0.1% Interest Saving",
+      "subtype": "savings",
+      "type": "depository"
+    },
+    {
+      "account_id": "l38vRX7kzds9dA1X8eowilG6RxzeLasJr9av1",
+      "balances": {
+        "available": null,
+        "current": 1000,
+        "limit": null
+      },
+      "mask": "2222",
+      "name": "Plaid CD",
+      "official_name": "Plaid Bronze Standard 0.2% Interest CD",
+      "subtype": "cd",
+      "type": "depository"
+    },
+    {
+      "account_id": "qknr6ml3a9uNJam1vVkDHeWdrJvQ3XhoVb6qJ",
+      "balances": {
+        "available": null,
+        "current": 410,
+        "limit": 2000
+      },
+      "mask": "3333",
+      "name": "Plaid Credit Card",
+      "official_name": "Plaid Diamond 12.5% APR Interest Credit Card",
+      "subtype": "credit",
+      "type": "credit"
+    }
+  ],
+  "public_token": "public-sandbox-03e49f2c-a3b2-4ea6-8f0c-279e6529473f",
+  "request_id": "pDYEy"
+}

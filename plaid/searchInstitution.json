@@ -1,0 +1,276 @@
+{
+  "institutions": [
+    {
+      "credentials": [
+        {
+          "label": "User ID",
+          "name": "username",
+          "type": "text"
+        },
+        {
+          "label": "Password",
+          "name": "password",
+          "type": "password"
+        }
+      ],
+      "has_mfa": true,
+      "institution_id": "ins_100010",
+      "mfa": [
+        "code",
+        "list",
+        "questions",
+        "selections"
+      ],
+      "name": "Fifth Third Bank",
+      "products": [
+        "balance",
+        "transactions"
+      ]
+    },
+    {
+      "credentials": [
+        {
+          "label": "Username",
+          "name": "username",
+          "type": "text"
+        },
+        {
+          "label": "Password",
+          "name": "password",
+          "type": "password"
+        }
+      ],
+      "has_mfa": true,
+      "institution_id": "ins_102903",
+      "mfa": [
+        "code",
+        "list",
+        "questions",
+        "selections"
+      ],
+      "name": "FedLoan Servicing",
+      "products": [
+        "balance",
+        "transactions"
+      ]
+    },
+    {
+      "credentials": [
+        {
+          "label": "Username",
+          "name": "username",
+          "type": "text"
+        },
+        {
+          "label": "Password",
+          "name": "password",
+          "type": "password"
+        }
+      ],
+      "has_mfa": true,
+      "institution_id": "ins_100089",
+      "mfa": [
+        "code",
+        "list",
+        "questions",
+        "selections"
+      ],
+      "name": "First Convenience Bank",
+      "products": [
+        "balance",
+        "transactions"
+      ]
+    },
+    {
+      "credentials": [
+        {
+          "label": "User ID",
+          "name": "username",
+          "type": "text"
+        },
+        {
+          "label": "Password",
+          "name": "password",
+          "type": "password"
+        }
+      ],
+      "has_mfa": true,
+      "institution_id": "ins_100046",
+      "mfa": [
+        "code",
+        "list",
+        "questions",
+        "selections"
+      ],
+      "name": "First Tennessee",
+      "products": [
+        "auth",
+        "balance",
+        "credit_details",
+        "identity",
+        "income",
+        "transactions"
+      ]
+    },
+    {
+      "credentials": [
+        {
+          "label": "User ID",
+          "name": "username",
+          "type": "text"
+        },
+        {
+          "label": "Password",
+          "name": "password",
+          "type": "password"
+        }
+      ],
+      "has_mfa": true,
+      "institution_id": "ins_109189",
+      "mfa": [
+        "code",
+        "list",
+        "questions",
+        "selections"
+      ],
+      "name": "First Premier Bankcard",
+      "products": [
+        "balance",
+        "income",
+        "transactions"
+      ]
+    },
+    {
+      "credentials": [
+        {
+          "label": "Online Banking",
+          "name": "username",
+          "type": "text"
+        },
+        {
+          "label": "Password",
+          "name": "password",
+          "type": "password"
+        }
+      ],
+      "has_mfa": true,
+      "institution_id": "ins_103622",
+      "mfa": [
+        "code",
+        "list",
+        "questions",
+        "selections"
+      ],
+      "name": "Fort Sill National Bank",
+      "products": [
+        "balance",
+        "transactions"
+      ]
+    },
+    {
+      "credentials": [
+        {
+          "label": "User ID",
+          "name": "username",
+          "type": "text"
+        },
+        {
+          "label": "Password",
+          "name": "password",
+          "type": "password"
+        }
+      ],
+      "has_mfa": true,
+      "institution_id": "ins_100069",
+      "mfa": [
+        "code",
+        "list",
+        "questions",
+        "selections"
+      ],
+      "name": "FirstBank of Colorado (1st Bank)",
+      "products": [
+        "balance",
+        "transactions"
+      ]
+    },
+    {
+      "credentials": [
+        {
+          "label": "User ID",
+          "name": "username",
+          "type": "text"
+        },
+        {
+          "label": "Password",
+          "name": "password",
+          "type": "password"
+        }
+      ],
+      "has_mfa": false,
+      "institution_id": "ins_109140",
+      "mfa": [],
+      "name": "First Tech Federal Credit Union",
+      "products": [
+        "auth",
+        "balance",
+        "transactions"
+      ]
+    },
+    {
+      "credentials": [
+        {
+          "label": "My Frost User ID",
+          "name": "username",
+          "type": "text"
+        },
+        {
+          "label": "password",
+          "name": "password",
+          "type": "password"
+        }
+      ],
+      "has_mfa": true,
+      "institution_id": "ins_100093",
+      "mfa": [
+        "code",
+        "list",
+        "questions",
+        "selections"
+      ],
+      "name": "Frost Bank",
+      "products": [
+        "balance",
+        "transactions"
+      ]
+    },
+    {
+      "credentials": [
+        {
+          "label": "Username",
+          "name": "username",
+          "type": "text"
+        },
+        {
+          "label": "Password",
+          "name": "password",
+          "type": "password"
+        }
+      ],
+      "has_mfa": true,
+      "institution_id": "ins_103279",
+      "mfa": [
+        "code",
+        "list",
+        "questions",
+        "selections"
+      ],
+      "name": "First National Bank Texas (FNBT)",
+      "products": [
+        "balance",
+        "transactions"
+      ]
+    }
+  ],
+  "request_id": "LU7T0"
+}

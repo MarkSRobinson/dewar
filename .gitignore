@@ -22,3 +22,14 @@ _testmain.go
 *.exe
 *.test
 *.prof
+/plaid/testingcredentials.json
+/tool/my.db
+/tool/.plaid/
+/.idea/
+/testdriver/testingcredentials.json
+caledonia/fidelity_transaction.json
+caledonia/transaction_test.ofx
+testdriver/.plaid/
+testdriver/problematicTransactions.json
+testdriver/testingcredentials.json
+testdriver/xact.ofx
