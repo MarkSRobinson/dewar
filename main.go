@@ -176,6 +176,7 @@ func processAccessToken(w http.ResponseWriter, r *http.Request) {
 
 func main() {
 
+	fmt.Printf("Output test")
 	http.HandleFunc("/", viewHandler)
 	http.HandleFunc("/get_access_token", processAccessToken)
 	log.Fatal(http.ListenAndServe(":8080", nil))
